@@ -1,0 +1,1 @@
+@tailwind base;@tailwind components;@tailwind utilities;input[type=range].vertical-slider{margin:0;padding:0;width:8px;accent-color:black;color:#000;background:transparent;cursor:pointer}@supports (-moz-appearance: none){input[type=range].vertical-slider{width:8px}}
