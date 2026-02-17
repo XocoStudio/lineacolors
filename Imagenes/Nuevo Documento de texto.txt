@@ -1,0 +1,11 @@
+en el 02 despues del glb puedes cambiar la primera imagen por estas donde toca02ambientecondenawhite
+02ambientecondenaverde
+02ambientecondenared
+02ambientecondenamarron
+02ambientecondenablack
+02ambientecondenaazul   y la segunda imagen por estas donde toca  02dibujocondenawhiteblue
+02dibujocondenawhite
+02dibujocondenared
+02dibujocondenagreen
+02dibujocondenabrown
+02dibujocondenablack
